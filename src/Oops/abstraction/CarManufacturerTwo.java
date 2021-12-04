@@ -1,8 +1,8 @@
 package Oops.abstraction;
 
-public class CarManufacturer extends UpgradedCar {
+public class CarManufacturerTwo extends UpgradedCar {
     public static void main(String[] args) {
-        CarManufacturer carManufacturer = new CarManufacturer();
+        CarManufacturerTwo carManufacturer = new CarManufacturerTwo();
         carManufacturer.brake();
         carManufacturer.gear();
         carManufacturer.horn();
@@ -14,6 +14,7 @@ public class CarManufacturer extends UpgradedCar {
         carManufacturer.window();
         carManufacturer.horn();
         carManufacturer.autoDriver();
+
 
     }
 }

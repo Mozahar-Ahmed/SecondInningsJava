@@ -2,7 +2,7 @@ package Oops.abstraction;
 
 public class UpgradedCar extends Car implements VehicleIdea, VehicleIdea2 {
     void autoDriver() {
-        System.out.println("It can drive without a human driver");
+        System.out.println("It can drive without a human driver__Like Tesla Car");
     }
 
 

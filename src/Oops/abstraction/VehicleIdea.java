@@ -1,6 +1,6 @@
 package Oops.abstraction;
 
-public interface VehicleIdea {
+ interface VehicleIdea {
     void wheel();
 
     void start();
