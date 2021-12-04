@@ -5,7 +5,6 @@ public class UpgradedCar extends Car implements VehicleIdea, VehicleIdea2 {
         System.out.println("It can drive without a human driver__Like Tesla Car");
     }
 
-
     @Override
     void gear() {
         System.out.println("Need gear");

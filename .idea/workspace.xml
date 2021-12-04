@@ -2,54 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeab260c-202f-4561-b8f1-49f14c21914c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/AdvancedCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/AdvancedCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/Car2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/Car2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/VehicleIdea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/VehicleIdea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstractionbusiness/RunBusiness.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstractionbusiness/RunBusiness.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/encapsulation/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/encapsulation/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/encapsulation/StudentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/encapsulation/StudentInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/inheritance/Grandfather.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/inheritance/Grandfather.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/inheritance/Grandson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/inheritance/Grandson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/polymorphism/MethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/polymorphism/MethodOverloading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/polymorphism/MethodOverriding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/polymorphism/MethodOverriding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Sinsgletone/CellPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Sinsgletone/CellPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Sinsgletone/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Sinsgletone/Laptop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/constuctorpractice/ParameterizedConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/constuctorpractice/ParameterizedConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/constuctorpractice/SetAttributeValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/constuctorpractice/SetAttributeValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/datastructure/Array_ExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/datastructure/Array_ExceptionHandling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/datastructure/HashMapPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/datastructure/HashMapPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/enumpractice/Week$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/enumpractice/Week$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/enumpractice/Week.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/enumpractice/Week.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/enumpractice/Year$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/enumpractice/Year$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/enumpractice/Year.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/enumpractice/Year.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/filing/CreateFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/filing/CreateFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/filing/GetFileInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/filing/GetFileInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/homeworks/AllTypesMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/homeworks/AllTypesMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/homeworks/ParameterizedConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/homeworks/ParameterizedConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/loopsAll/Condition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/loopsAll/Condition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/loopsAll/DoWhileLoop1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/loopsAll/DoWhileLoop1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/loopsAll/ForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/loopsAll/ForEachLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/loopsAll/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/loopsAll/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/methodcallfromotherclass/Ipl2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/methodcallfromotherclass/Ipl2020.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/methodcallfromotherclass/Kkr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/methodcallfromotherclass/Kkr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/methodcallfromotherclass/RoyalChallengers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/methodcallfromotherclass/RoyalChallengers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/parameterization/ConstructorParameterization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/parameterization/ConstructorParameterization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/parameterization/ReturnTypeMethodParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/parameterization/ReturnTypeMethodParam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/parameterization/ReturnTypeMethodParam2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/parameterization/ReturnTypeMethodParam2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/parameterization/voidTypeMethodParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/parameterization/voidTypeMethodParam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/practice1/AccessSpcifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/practice1/AccessSpcifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/practice1/Appliances.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/practice1/Appliances.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/practice1/MethodsType_voidOrReturn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/practice1/MethodsType_voidOrReturn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/practice1/StaticNonstatic_Void.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/practice1/StaticNonstatic_Void.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/AdvancedCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/AdvancedCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/Car2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/Car2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/CarManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/CarManufacturerTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/RunableCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/RunableCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/CarManufacturerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/CarManufacturerTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/CarmanufacturerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/CarmanufacturerOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/UpgradedCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/UpgradedCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/VehicleIdea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/VehicleIdea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/inheritance/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/inheritance/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/inheritance/Vehicle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

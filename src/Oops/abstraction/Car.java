@@ -5,8 +5,7 @@ public abstract class Car extends Car2 { // we can extend abstract class to abst
     public Car() {// abstract class has constructor, still can't create obj
 
     }
-
-// methods that are abstract we need to specify as abstract
+    // methods that are abstract we need to specify as abstract
     abstract void gear();
 
     void horn() {
