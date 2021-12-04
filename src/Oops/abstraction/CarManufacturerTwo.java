@@ -14,5 +14,6 @@ public class CarManufacturerTwo extends UpgradedCar {
         carManufacturer.window();
         carManufacturer.horn();
         carManufacturer.autoDriver();
+        System.out.println(carManufacturer.modelYear);
     }
 }

@@ -12,5 +12,6 @@ public class CarmanufacturerOne extends RunableCar implements VehicleIdea, Vehic
         cmOne.stop();
         cmOne.wheel();
         cmOne.window();
+        System.out.println(cmOne.modelYear);
     }
 }
