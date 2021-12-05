@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeab260c-202f-4561-b8f1-49f14c21914c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/AdvancedCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/AdvancedCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/CarManufacturerTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/CarManufacturerTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/CarmanufacturerOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/CarmanufacturerOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/UpgradedCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/UpgradedCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/VehicleIdea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/VehicleIdea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/VehicleIdea2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/abstraction/VehicleIdea2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/inheritance/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/inheritance/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondInnings/Oops/inheritance/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondInnings/Oops/inheritance/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/AdvancedCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/AdvancedCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/CarManufacturerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/CarManufacturerTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/CarmanufacturerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/CarmanufacturerOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/UpgradedCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/UpgradedCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/abstraction/VehicleIdea2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/abstraction/VehicleIdea2.java" afterDir="false" />
-    </list>
+    <list default="true" id="eeab260c-202f-4561-b8f1-49f14c21914c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
